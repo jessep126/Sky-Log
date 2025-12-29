@@ -1,0 +1,5 @@
+{
+  "description": "A sophisticated personal flight tracker featuring yearly statistics, top destination leaderboards, and AI-powered traveler persona analysis using Gemini.",
+  "requestFramePermissions": [],
+  "name": "App"
+}
